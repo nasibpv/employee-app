@@ -1,0 +1,25 @@
+unique id generation
+--------------------
+
+uuid - libarary used to create unique ids
+
+    using steps:- install uuid
+    uuid()
+
+redirection in react
+-------------------
+
+Link  
+useNavigate  - hook used for redirection  (react-router-dom)
+
+    using steps:-
+            1-import hook foe useNavigate
+            2-cell useNavigate()  (create object)
+            3-cell object(path)
+
+    example:-
+                import useNavigate ......
+
+                let location=useNavigate
+
+                location('/')
